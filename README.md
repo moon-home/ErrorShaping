@@ -1,5 +1,14 @@
 ## Motivation
-  Neural Network is invented to learn the mapping function from `X` to `Y`. This 
+  Many neural networks are invented to learn the mapping function from `X` to `Y`. If we express the actual realationship between `X` and `Y` as:
+  
+  <img src="http://i66.tinypic.com/210x7qr.png" width="120">
+  
+  the learned relationship by neural network, or just any regression, can be expressed as:
+  
+  <img src="http://i67.tinypic.com/2z3wj91.png" width="120">
+  
+  This 
+  
 ## Experiment overview
 ## Training detail:
                model structure: picture, math
