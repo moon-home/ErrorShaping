@@ -10,7 +10,8 @@ Benchmark NN structure:
 <img src="https://camo.githubusercontent.com/3b09dcc91d2248c2bee21aa7d83df7fc075b7afc/68747470733a2f2f692e696d6775722e636f6d2f736632463976782e706e67" width="400">
 
 MSE along training for benchmark NN:
-
+MSE.png
+<img src="./imgs/MSE.png" width="300">
 <img src="https://camo.githubusercontent.com/c3f74c978ac335cee3ebd262c8ea7b286731a5b8/68747470733a2f2f692e696d6775722e636f6d2f6d3357664c74662e706e67" width="300">
 
 ## Priliminary Results:
