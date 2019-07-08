@@ -12,7 +12,9 @@ Benchmark NN structure:
 MSE along training for benchmark NN:
 
 <img src="./imgs/MSE.png" width="300">
+
 ----------------------------------------------------------------------------------------------------------------------
+
 ## Priliminary Results:
 
  With learning rate = 100, epochs = 50:
