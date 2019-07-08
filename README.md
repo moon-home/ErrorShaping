@@ -11,7 +11,7 @@ Benchmark NN structure:
 
 MSE along training for benchmark NN:
 
-<img src="https://i.imgur.com/m3WfLtf.png" width="400">
+<img src="https://i.imgur.com/m3WfLtf.png" width="300">
 
 ## Priliminary Results:
 
@@ -30,17 +30,17 @@ When learning rate(1000) is too large, the model diverges:
 
 PS: learning rate here did not include the adaptive part for each weight, an example of actual weight change with learning rate = 1000:
 
-<img src="https://i.imgur.com/3bn9GQJ.png" width="200">
+<img src="https://i.imgur.com/3bn9GQJ.png" width="300">
 
 An example of weights trained with distribution loss:
 
 before
 
-<img src="https://i.imgur.com/2UyMEdW.png" width="200">
+<img src="https://i.imgur.com/2UyMEdW.png" width="400">
 
 after
 
-<img src="https://i.imgur.com/wAZylkC.png" width="200">
+<img src="https://i.imgur.com/wAZylkC.png" width="400">
 
 
 *This is a 2019 summer intern project under Dr.Hong Wang in NTRC.*
