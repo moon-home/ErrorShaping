@@ -1,5 +1,5 @@
 ## Project overview:
-<img src="http://i64.tinypic.com/19uyh2.png" width="1000">
+<img src="https://i.imgur.com/EfzTqwc.png" width="1000">
 
 An example for the meaning of distribution loss:
 
