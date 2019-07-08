@@ -7,40 +7,40 @@ An example for the meaning of distribution loss:
 
 Benchmark NN structure:
 
-<img src="https://i.imgur.com/sf2F9vx.png" width="400">
+<img src="https://camo.githubusercontent.com/3b09dcc91d2248c2bee21aa7d83df7fc075b7afc/68747470733a2f2f692e696d6775722e636f6d2f736632463976782e706e67" width="400">
 
 MSE along training for benchmark NN:
 
-<img src="https://i.imgur.com/m3WfLtf.png" width="300">
+<img src="https://camo.githubusercontent.com/c3f74c978ac335cee3ebd262c8ea7b286731a5b8/68747470733a2f2f692e696d6775722e636f6d2f6d3357664c74662e706e67" width="300">
 
 ## Priliminary Results:
 
  With learning rate = 100, epochs = 50:
  
-<img src="https://i.imgur.com/v16Onnd.png" width="1000">
+<img src="https://camo.githubusercontent.com/cc01f3e75965b1f219152a400948d257eca97977/68747470733a2f2f692e696d6775722e636f6d2f7631364f6e6e642e706e67" width="1000">
 
 The change of errors distribution is very subtle after 50 epochs:
 
-<img src="https://i.imgur.com/t4mrhi2.png" width="1000">
+<img src="https://camo.githubusercontent.com/ffff0d7a6e77377ade637c7cfefac28fb455b6f8/68747470733a2f2f692e696d6775722e636f6d2f74346d726869322e706e67" width="1000">
 
 When learning rate(1000) is too large, the model diverges:
 
-<img src="https://i.imgur.com/SQMJp20.png" width="1000">
+<img src="https://camo.githubusercontent.com/64ac3bd428d0eeb7a529ed1b66d1863e17d26fec/68747470733a2f2f692e696d6775722e636f6d2f53514d4a7032302e706e67" width="1000">
 
 
 PS: learning rate here did not include the adaptive part for each weight, an example of actual weight change with learning rate = 1000:
 
-<img src="https://i.imgur.com/3bn9GQJ.png" width="300">
+<img src="https://camo.githubusercontent.com/535d3c5a5683a0ca8b44488e9c44630d4b28fbb6/68747470733a2f2f692e696d6775722e636f6d2f33626e3947514a2e706e67" width="300">
 
 An example of weights trained with distribution loss:
 
 before
 
-<img src="https://i.imgur.com/2UyMEdW.png" width="400">
+<img src="https://camo.githubusercontent.com/bef918aca3da1f8d801b2beef4d70ee8f614f5e5/68747470733a2f2f692e696d6775722e636f6d2f3255794d4564572e706e67" width="400">
 
 after
 
-<img src="https://i.imgur.com/wAZylkC.png" width="400">
+<img src="https://camo.githubusercontent.com/cb34420233f5376be9dfc5243e233f9b2e63dce4/68747470733a2f2f692e696d6775722e636f6d2f77415a796c6b432e706e67" width="400">
 
 
 *This is a 2019 summer intern project under Dr.Hong Wang in NTRC.*
