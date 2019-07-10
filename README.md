@@ -47,3 +47,13 @@ after
 
 *This is a 2019 summer intern project under Dr.Hong Wang in NTRC.*
 
+
+Issues:
+tf.keras.optimizers.SGD 
+=> tf.train.Optimizer 
+=> tf.train.Optimizer.compute_gradients 
+=> tf.python.eager.backprop.GradientTape().gradient() 
+=> tensorflow.python.eager.imperative_grad.imperative_grad() 
+=>tensorflow.python.pywrap_tensorflow.TFE_Py_TapeGradient() 
+=> There is no "TFE_Py_TapeGradient()" in "pywrap_tensorflow"
+=>https://github.com/tensorflow/tensorflow/issues/29064
