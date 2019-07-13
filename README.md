@@ -23,10 +23,6 @@ The change of errors distribution is very subtle after 50 epochs:
 
 <img src="./imgs/res.png" width="1000">
 
-When learning rate(1000) is too large, the model diverges:
-
-<img src="./imgs/diverge.png" width="1000">
-
 
 PS: learning rate here did not include the adaptive part for each weight, an example of actual weight change with learning rate = 1000:
 
@@ -43,8 +39,6 @@ after
 <img src="./imgs/weightafter.png" width="400">
 
 
-*This is a 2019 summer intern project under Dr.Hong Wang in NTRC.*
-
 
 Issues:
 
@@ -60,6 +54,8 @@ tf.keras.optimizers.SGD
 
 =>tensorflow.python.pywrap_tensorflow.TFE_Py_TapeGradient() 
 
+
+*This is a 2019 summer intern project under Dr.Hong Wang in NTRC.*
 => There is no "TFE_Py_TapeGradient()" in "pywrap_tensorflow"
 
 =>https://github.com/tensorflow/tensorflow/issues/29064
