@@ -16,10 +16,8 @@ MSE along training for benchmark NN:
  ---
 
 ## Priliminary Results:
-
- With learning rate = 100, epochs = 50:
  
-<img src="http://i65.tinypic.com/2lc5gt3.png" width="1000">
+<img src="./imgs/losses.png" width="1000">
 
 The change of errors distribution is very subtle after 50 epochs:
 
