@@ -23,7 +23,7 @@ MSE along training for benchmark NN:
 
 The change of errors distribution is very subtle after 50 epochs:
 
-<img src="./imgs/errorsdistribution.png" width="1000">
+<img src="./imgs/res.png" width="1000">
 
 When learning rate(1000) is too large, the model diverges:
 
