@@ -54,8 +54,9 @@ tf.keras.optimizers.SGD
 
 =>tensorflow.python.pywrap_tensorflow.TFE_Py_TapeGradient() 
 
-
-*This is a 2019 summer intern project under Dr.Hong Wang in NTRC.*
 => There is no "TFE_Py_TapeGradient()" in "pywrap_tensorflow"
 
 =>https://github.com/tensorflow/tensorflow/issues/29064
+
+
+*This is my 2019 summer intern project under Dr.Hong Wang in NTRC.*
